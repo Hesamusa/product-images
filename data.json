@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:36:34.827Z",
+  "updatedAt": "2026-09-06T20:36:42.834Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -67,7 +67,7 @@
     {
       "id": "p_1788726983909cvg8y",
       "name": "محصول جدید",
-      "weight": 50,
+      "weight": 60,
       "printHours": 3,
       "manualHours": 0,
       "paintHours": 0,
