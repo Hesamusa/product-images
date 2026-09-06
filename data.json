@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:48:23.807Z",
+  "updatedAt": "2026-09-06T15:48:37.701Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -36,7 +36,7 @@
     {
       "id": "p_17887096795046mhbr",
       "name": "سه کله سبز",
-      "weight": 50,
+      "weight": 80,
       "printHours": 3,
       "manualHours": 0,
       "paintHours": 0,
