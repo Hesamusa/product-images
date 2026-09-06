@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:22:11.228Z",
+  "updatedAt": "2026-09-06T20:22:26.857Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -48,7 +48,7 @@
       "imageUrl": null,
       "imagePath": null,
       "imageSha": null,
-      "stock": 0
+      "stock": 1
     }
   ],
   "sales": [],
