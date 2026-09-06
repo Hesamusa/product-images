@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:43:37.997Z",
+  "updatedAt": "2026-09-06T17:45:09.755Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -33,9 +33,30 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788700497909ef9f6.jpg?v=1788703724530",
       "imagePath": "product-images/p_1788700497909ef9f6.jpg",
       "imageSha": "dc21ea28ddb78dd7d85e85efb1a335fc8b230c3b",
-      "stock": 5
+      "stock": 4
     }
   ],
-  "sales": [],
-  "customers": []
+  "sales": [
+    {
+      "id": "sl_1788716707997gctux",
+      "productId": "p_1788700497909ef9f6",
+      "productName": "مجسمه اژدها ۱۵ سانتی",
+      "qty": 1,
+      "unitPrice": 831750,
+      "costPerUnit": 554500,
+      "saleType": "wholesale",
+      "note": "",
+      "date": "2026-09-06",
+      "buyerName": "حسن",
+      "buyerPhone": "09352403763"
+    }
+  ],
+  "customers": [
+    {
+      "id": "c_1788716707998lxryk",
+      "name": "حسن",
+      "phone": "09352403763",
+      "createdAt": "2026-09-06T17:45:07.998Z"
+    }
+  ]
 }
