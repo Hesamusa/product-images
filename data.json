@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:37:29.701Z",
+  "updatedAt": "2026-09-06T20:37:34.963Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -77,6 +77,20 @@
       "imagePath": "product-images/p_1788726983909cvg8y.jpg",
       "imageSha": "a6f1dc27b8aa4dcd9c68f2eb0c3b9ccd2a870d67",
       "stock": 1
+    },
+    {
+      "id": "p_1788727053199bbx9o",
+      "name": "محصول جدید",
+      "weight": 50,
+      "printHours": 3,
+      "manualHours": 0,
+      "paintHours": 0,
+      "marginW": null,
+      "marginR": null,
+      "imageUrl": null,
+      "imagePath": null,
+      "imageSha": null,
+      "stock": 0
     }
   ],
   "sales": [],
