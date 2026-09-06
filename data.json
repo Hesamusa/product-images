@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:17:51.362Z",
+  "updatedAt": "2026-09-06T20:17:59.974Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -26,7 +26,7 @@
       "id": "p_1788700497909ef9f6",
       "name": "فاکس متوسط",
       "weight": 85,
-      "printHours": 2.5,
+      "printHours": 6,
       "manualHours": 0,
       "paintHours": 1.5,
       "marginW": 70,
