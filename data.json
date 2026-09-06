@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:32:55.181Z",
+  "updatedAt": "2026-09-06T19:43:39.106Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -9,6 +9,7 @@
     "paint": 50000,
     "marginW": 50,
     "marginR": 120,
+    "roundStep": 1000,
     "githubOwner": "hesamusa",
     "githubRepo": "product-images",
     "githubBranch": "main",
@@ -25,7 +26,7 @@
       "id": "p_1788700497909ef9f6",
       "name": "بی دندون شب",
       "weight": 30,
-      "printHours": 2,
+      "printHours": 0.2,
       "manualHours": 0,
       "paintHours": 5,
       "marginW": 70,
