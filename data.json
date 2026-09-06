@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:43:18.176Z",
+  "updatedAt": "2026-09-06T17:43:37.997Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -24,7 +24,7 @@
     {
       "id": "p_1788700497909ef9f6",
       "name": "مجسمه اژدها ۱۵ سانتی",
-      "weight": 85,
+      "weight": 100,
       "printHours": 6,
       "manualHours": 0.5,
       "paintHours": 1,
