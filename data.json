@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:23:34.098Z",
+  "updatedAt": "2026-09-06T20:24:31.489Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -39,7 +39,7 @@
     {
       "id": "p_17887261294714fvv6",
       "name": "بی دندون سفید",
-      "weight": 50,
+      "weight": 8,
       "printHours": 3,
       "manualHours": 0,
       "paintHours": 0,
