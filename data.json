@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:35:28.746Z",
+  "updatedAt": "2026-09-06T15:44:49.265Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -16,7 +16,8 @@
     "companyName": "3D PRINT PLUSY",
     "logoUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/brand-logo.jpg?v=1788708926987",
     "logoPath": "product-images/brand-logo.jpg",
-    "logoSha": "2c1fff5befc68c4f5cec3911d456208f63ed455b"
+    "logoSha": "2c1fff5befc68c4f5cec3911d456208f63ed455b",
+    "productsView": "grid"
   },
   "products": [
     {
