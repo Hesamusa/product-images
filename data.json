@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:47:57.276Z",
+  "updatedAt": "2026-09-06T15:48:01.260Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -32,6 +32,19 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_178870558063075nco.jpg?v=1788705934971",
       "imagePath": "product-images/p_178870558063075nco.jpg",
       "imageSha": "08bedeaa623cff50f273f30f59c1eddcdc774811"
+    },
+    {
+      "id": "p_17887096795046mhbr",
+      "name": "محصول جدید",
+      "weight": 50,
+      "printHours": 3,
+      "manualHours": 0,
+      "paintHours": 0,
+      "marginW": null,
+      "marginR": null,
+      "imageUrl": null,
+      "imagePath": null,
+      "imageSha": null
     }
   ],
   "sales": []
