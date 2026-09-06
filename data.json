@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:35:55.968Z",
+  "updatedAt": "2026-09-06T20:36:06.727Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -62,20 +62,6 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788726335760mn24b.jpg?v=1788726485684",
       "imagePath": "product-images/p_1788726335760mn24b.jpg",
       "imageSha": "734312731759b0df8a68b115368657e1d171e327",
-      "stock": 1
-    },
-    {
-      "id": "p_1788726527153ci4yg",
-      "name": "چارم بگ اختاپوس بزرگ",
-      "weight": 60,
-      "printHours": 6,
-      "manualHours": 0,
-      "paintHours": 0.5,
-      "marginW": 80,
-      "marginR": null,
-      "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788726527153ci4yg.jpg?v=1788726774166",
-      "imagePath": "product-images/p_1788726527153ci4yg.jpg",
-      "imageSha": "a6f1dc27b8aa4dcd9c68f2eb0c3b9ccd2a870d67",
       "stock": 1
     }
   ],
