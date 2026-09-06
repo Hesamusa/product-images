@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:09:55.248Z",
+  "updatedAt": "2026-09-06T20:10:07.767Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -34,9 +34,23 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788700497909ef9f6.jpg?v=1788703724530",
       "imagePath": "product-images/p_1788700497909ef9f6.jpg",
       "imageSha": "dc21ea28ddb78dd7d85e85efb1a335fc8b230c3b",
-      "stock": 3
+      "stock": 0
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": "sl_1788725406013nri01",
+      "productId": "p_1788700497909ef9f6",
+      "productName": "بی دندون شب",
+      "qty": 3,
+      "unitPrice": 215000,
+      "costPerUnit": 125375,
+      "saleType": "wholesale",
+      "note": "",
+      "date": "2026-09-06",
+      "buyerName": "",
+      "buyerPhone": ""
+    }
+  ],
   "customers": []
 }
