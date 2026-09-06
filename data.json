@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:18:37.269Z",
+  "updatedAt": "2026-09-06T15:35:09.159Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -12,7 +12,11 @@
     "githubOwner": "Hesamusa",
     "githubRepo": "Product-images",
     "githubBranch": "main",
-    "githubFolder": "product-images"
+    "githubFolder": "product-images",
+    "companyName": "3",
+    "logoUrl": null,
+    "logoPath": null,
+    "logoSha": null
   },
   "products": [
     {
