@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:12:28.254Z",
+  "updatedAt": "2026-09-06T20:16:57.096Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -24,7 +24,7 @@
   "products": [
     {
       "id": "p_1788700497909ef9f6",
-      "name": "بی دندون شب",
+      "name": "",
       "weight": 30,
       "printHours": 2.5,
       "manualHours": 0,
