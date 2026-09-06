@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:28:18.132Z",
+  "updatedAt": "2026-09-06T20:28:21.466Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -54,7 +54,7 @@
       "id": "p_1788726335760mn24b",
       "name": "بی دندون مشکی",
       "weight": 8,
-      "printHours": 3,
+      "printHours": 1,
       "manualHours": 0,
       "paintHours": 0,
       "marginW": null,
