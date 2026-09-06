@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:33:33.281Z",
+  "updatedAt": "2026-09-06T20:33:35.333Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -68,7 +68,7 @@
       "id": "p_1788726527153ci4yg",
       "name": "چارم بگ اختاپوس بزرگ",
       "weight": 60,
-      "printHours": 3,
+      "printHours": 6,
       "manualHours": 0,
       "paintHours": 0,
       "marginW": null,
