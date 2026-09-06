@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:28:39.602Z",
+  "updatedAt": "2026-09-06T18:31:02.300Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -23,7 +23,7 @@
   "products": [
     {
       "id": "p_1788700497909ef9f6",
-      "name": "مجسمه اژدها ۱۵ سانتی",
+      "name": "بی دندون شب",
       "weight": 100,
       "printHours": 6,
       "manualHours": 0.5,
