@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:45:58.645Z",
+  "updatedAt": "2026-09-06T15:18:17.147Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -29,5 +29,17 @@
       "imageSha": "08bedeaa623cff50f273f30f59c1eddcdc774811"
     }
   ],
-  "sales": []
+  "sales": [
+    {
+      "id": "sl_1788707895387nciyt",
+      "productId": "p_178870558063075nco",
+      "productName": "دافی داگ",
+      "qty": 1,
+      "unitPrice": 370875,
+      "costPerUnit": 247250,
+      "saleType": "wholesale",
+      "note": "حسن",
+      "date": "2026-09-06"
+    }
+  ]
 }
