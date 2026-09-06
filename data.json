@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:43:08.398Z",
+  "updatedAt": "2026-09-06T17:43:18.176Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
@@ -7,7 +7,7 @@
     "depr": 5000,
     "labor": 200000,
     "paint": 300000,
-    "marginW": 30,
+    "marginW": 50,
     "marginR": 120,
     "githubOwner": "hesamusa",
     "githubRepo": "product-images",
