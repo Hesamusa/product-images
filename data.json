@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-06T17:42:30.077Z",
+  "updatedAt": "2026-09-06T17:42:53.828Z",
   "settings": {
     "filPrice": 1200000,
     "power": 250,
     "elec": 3000,
-    "depr": 15000,
+    "depr": 5000,
     "labor": 200000,
     "paint": 300000,
     "marginW": 50,
