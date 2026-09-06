@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:25:21.162Z",
+  "updatedAt": "2026-09-06T20:25:27.538Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -44,7 +44,7 @@
       "manualHours": 0,
       "paintHours": 0.5,
       "marginW": 100,
-      "marginR": null,
+      "marginR": 200,
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_17887261294714fvv6.jpg?v=1788726212330",
       "imagePath": "product-images/p_17887261294714fvv6.jpg",
       "imageSha": "0f5172b3ff2c2747827128f9c6fa6f3325e317ec",
