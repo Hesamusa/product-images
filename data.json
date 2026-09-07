@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-09-07T04:35:58.266Z",
+  "updatedAt": "2026-09-07T05:03:55.239Z",
   "settings": {
     "filPrice": 2800000,
+    "resinPrice": 0,
     "power": 250,
     "elec": 3000,
     "depr": 5000,
@@ -24,6 +25,7 @@
     "logoUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/brand-logo.jpg?v=1788713370098",
     "logoPath": "product-images/brand-logo.jpg",
     "logoSha": "2c1fff5befc68c4f5cec3911d456208f63ed455b",
+    "instagramUrl": "3dplusy",
     "adminPin": "373763",
     "productsView": "list"
   },
@@ -109,5 +111,6 @@
       "phone": "09152325688",
       "createdAt": "2026-09-07T04:18:17.187Z"
     }
-  ]
+  ],
+  "orders": []
 }
