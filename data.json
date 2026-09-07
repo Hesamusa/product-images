@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T11:11:46.697Z",
+  "updatedAt": "2026-09-07T11:11:52.317Z",
   "settings": {
     "filPrice": 2800000,
     "resinPrice": 3000000,
@@ -10,7 +10,7 @@
     "paint": 50000,
     "marginW": 50,
     "marginR": 120,
-    "roundStep": 1000,
+    "roundStep": 5000,
     "productGroups": [
       {
         "id": "g_mtqsahf4t778",
