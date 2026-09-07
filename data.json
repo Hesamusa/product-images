@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:34:37.259Z",
+  "updatedAt": "2026-09-07T03:51:15.642Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -10,7 +10,12 @@
     "marginW": 50,
     "marginR": 180,
     "roundStep": 5000,
-    "productGroups": [],
+    "productGroups": [
+      {
+        "id": "g_mtqpe956hmux",
+        "name": "چارم بگ"
+      }
+    ],
     "githubOwner": "hesamusa",
     "githubRepo": "product-images",
     "githubBranch": "main",
@@ -35,7 +40,8 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788700497909ef9f6.jpg?v=1788725862242",
       "imagePath": "product-images/p_1788700497909ef9f6.jpg",
       "imageSha": "08bedeaa623cff50f273f30f59c1eddcdc774811",
-      "stock": 1
+      "stock": 1,
+      "category": "g_mtqpe956hmux"
     },
     {
       "id": "p_17887261294714fvv6",
