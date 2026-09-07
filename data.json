@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:33:53.713Z",
+  "updatedAt": "2026-09-07T03:34:26.575Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -19,7 +19,7 @@
     "logoUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/brand-logo.jpg?v=1788713370098",
     "logoPath": "product-images/brand-logo.jpg",
     "logoSha": "2c1fff5befc68c4f5cec3911d456208f63ed455b",
-    "productsView": "list",
+    "productsView": "grid",
     "adminPin": "373763"
   },
   "products": [
