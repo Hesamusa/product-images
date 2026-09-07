@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:13:43.285Z",
+  "updatedAt": "2026-09-07T05:14:38.420Z",
   "settings": {
     "filPrice": 1200000,
     "resinPrice": 0,
@@ -47,6 +47,30 @@
     }
   ],
   "sales": [],
-  "customers": [],
-  "orders": []
+  "customers": [
+    {
+      "id": "c_1788758076660pov8u",
+      "name": "حسن",
+      "phone": "09325131600",
+      "createdAt": "2026-09-07T05:14:36.660Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o_17887580766607xz4e",
+      "items": [
+        {
+          "productId": "p_1788757924479oy27y",
+          "productName": "بی دندون سیاه",
+          "qty": 5
+        }
+      ],
+      "customerName": "حسن",
+      "customerPhone": "09325131600",
+      "dueDate": null,
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2026-09-07T05:14:36.660Z"
+    }
+  ]
 }
