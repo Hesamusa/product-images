@@ -1,115 +1,30 @@
 {
-  "updatedAt": "2026-09-07T05:08:09.455Z",
+  "updatedAt": "2026-09-07T05:10:09.436Z",
   "settings": {
-    "filPrice": 2800000,
+    "filPrice": 1200000,
+    "resinPrice": 0,
     "power": 250,
     "elec": 3000,
-    "depr": 5000,
-    "labor": 0,
-    "paint": 50000,
+    "depr": 15000,
+    "labor": 200000,
+    "paint": 300000,
     "marginW": 50,
-    "marginR": 180,
-    "roundStep": 5000,
-    "productGroups": [
-      {
-        "id": "g_mtqpe956hmux",
-        "name": "چارم بگ"
-      }
-    ],
-    "githubOwner": "hesamusa",
-    "githubRepo": "product-images",
+    "marginR": 120,
+    "roundStep": 1000,
+    "productGroups": [],
+    "githubOwner": "Hesamusa",
+    "githubRepo": "Product-images",
     "githubBranch": "main",
     "githubFolder": "product-images",
-    "companyName": "3D PRINT PLUSY",
-    "logoUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/brand-logo.jpg?v=1788713370098",
-    "logoPath": "product-images/brand-logo.jpg",
-    "logoSha": "2c1fff5befc68c4f5cec3911d456208f63ed455b",
-    "adminPin": "373763",
-    "resinPrice": 0,
-    "instagramUrl": "3dplusy",
-    "productsView": "list"
+    "companyName": "",
+    "logoUrl": null,
+    "logoPath": null,
+    "logoSha": null,
+    "instagramUrl": "",
+    "adminPin": "1234"
   },
-  "products": [
-    {
-      "id": "p_1788700497909ef9f6",
-      "name": "فاکس متوسط",
-      "weight": 85,
-      "printHours": 6,
-      "manualHours": 0,
-      "paintHours": 0,
-      "marginW": 50,
-      "marginR": 85,
-      "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788700497909ef9f6.jpg?v=1788725862242",
-      "imagePath": "product-images/p_1788700497909ef9f6.jpg",
-      "imageSha": "08bedeaa623cff50f273f30f59c1eddcdc774811",
-      "stock": 1,
-      "category": "g_mtqpe956hmux"
-    },
-    {
-      "id": "p_17887261294714fvv6",
-      "name": "بی دندون سفید",
-      "weight": 8,
-      "printHours": 1,
-      "manualHours": 0,
-      "paintHours": 0.5,
-      "marginW": 100,
-      "marginR": 200,
-      "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_17887261294714fvv6.jpg?v=1788726212330",
-      "imagePath": "product-images/p_17887261294714fvv6.jpg",
-      "imageSha": "0f5172b3ff2c2747827128f9c6fa6f3325e317ec",
-      "stock": 1,
-      "category": "g_mtqpe956hmux"
-    },
-    {
-      "id": "p_1788726335760mn24b",
-      "name": "بی دندون مشکی",
-      "weight": 8,
-      "printHours": 1,
-      "manualHours": 0,
-      "paintHours": 0.5,
-      "marginW": 120,
-      "marginR": 200,
-      "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788726335760mn24b.jpg?v=1788726485684",
-      "imagePath": "product-images/p_1788726335760mn24b.jpg",
-      "imageSha": "734312731759b0df8a68b115368657e1d171e327",
-      "stock": 1
-    },
-    {
-      "id": "p_1788726983909cvg8y",
-      "name": "محصول جدید",
-      "weight": 60,
-      "printHours": 6,
-      "manualHours": 0,
-      "paintHours": 0.5,
-      "marginW": 70,
-      "marginR": null,
-      "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788726983909cvg8y.jpg?v=1788726993074",
-      "imagePath": "product-images/p_1788726983909cvg8y.jpg",
-      "imageSha": "a6f1dc27b8aa4dcd9c68f2eb0c3b9ccd2a870d67",
-      "stock": 1
-    },
-    {
-      "id": "p_1788727053199bbx9o",
-      "name": "محصول جدید",
-      "weight": 50,
-      "printHours": 3,
-      "manualHours": 0,
-      "paintHours": 0,
-      "marginW": null,
-      "marginR": null,
-      "imageUrl": null,
-      "imagePath": null,
-      "imageSha": null,
-      "stock": 0
-    }
-  ],
+  "products": [],
   "sales": [],
-  "customers": [
-    {
-      "id": "c_178875469718730qyx",
-      "name": "Hasan",
-      "phone": "09152325688",
-      "createdAt": "2026-09-07T04:18:17.187Z"
-    }
-  ]
+  "customers": [],
+  "orders": []
 }
