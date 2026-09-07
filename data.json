@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:13:05.369Z",
+  "updatedAt": "2026-09-07T05:13:11.055Z",
   "settings": {
     "filPrice": 1200000,
     "resinPrice": 0,
@@ -32,7 +32,7 @@
     {
       "id": "p_1788757924479oy27y",
       "name": "بی دندون سیاه",
-      "weight": 50,
+      "weight": 10,
       "printHours": 3,
       "manualHours": 0,
       "paintHours": 0,
