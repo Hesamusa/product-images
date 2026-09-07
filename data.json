@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T11:12:40.963Z",
+  "updatedAt": "2026-09-07T11:13:15.090Z",
   "settings": {
     "filPrice": 2800000,
     "resinPrice": 3000000,
@@ -42,17 +42,37 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788757924479oy27y.jpg?v=1788757983603",
       "imagePath": "product-images/p_1788757924479oy27y.jpg",
       "imageSha": "f374495bb5a038b2a3fa28e6281769e2b0128135",
-      "stock": 3,
+      "stock": 2,
       "category": "g_mtqsahf4t778"
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": "sl_17887795933274rewl",
+      "productId": "p_1788757924479oy27y",
+      "productName": "بی دندون سیاه",
+      "qty": 1,
+      "unitPrice": 160000,
+      "costPerUnit": 73500,
+      "saleType": "retail",
+      "note": "",
+      "date": "2026-09-07",
+      "buyerName": "رهگذر",
+      "buyerPhone": "09354864646"
+    }
+  ],
   "customers": [
     {
       "id": "c_1788758076660pov8u",
       "name": "حسن",
       "phone": "09325131600",
       "createdAt": "2026-09-07T05:14:36.660Z"
+    },
+    {
+      "id": "c_17887795933272iyyc",
+      "name": "رهگذر",
+      "phone": "09354864646",
+      "createdAt": "2026-09-07T11:13:13.327Z"
     }
   ],
   "orders": [
