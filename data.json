@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:18:18.942Z",
+  "updatedAt": "2026-09-07T04:18:24.268Z",
   "settings": {
     "filPrice": 3000000,
     "power": 250,
@@ -40,7 +40,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Hesamusa/product-images/main/product-images/p_1788700497909ef9f6.jpg?v=1788725862242",
       "imagePath": "product-images/p_1788700497909ef9f6.jpg",
       "imageSha": "08bedeaa623cff50f273f30f59c1eddcdc774811",
-      "stock": -3,
+      "stock": -4,
       "category": "g_mtqpe956hmux"
     },
     {
@@ -102,6 +102,19 @@
     }
   ],
   "sales": [
+    {
+      "id": "sl_1788754702514dvaqr",
+      "productId": "p_1788700497909ef9f6",
+      "productName": "فاکس متوسط",
+      "qty": 1,
+      "unitPrice": 535000,
+      "costPerUnit": 289500,
+      "saleType": "retail",
+      "note": "",
+      "date": "2026-09-07",
+      "buyerName": "",
+      "buyerPhone": ""
+    },
     {
       "id": "sl_17887546971863tsup",
       "productId": "p_1788700497909ef9f6",
